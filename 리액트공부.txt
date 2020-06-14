@@ -24,3 +24,6 @@
 13. git commit -m "Add Text File[리액트공부.txt]"
      위 명령은 clone을 할 때 마치 snap shot을 찍어 놓은 것과
      같아 project를 수정하거나 할 때 유용하게?이용한다.
+
+14. 마지막으로 'git push'명령을 실행해야 실제 github의 
+     repository에 upload된다.
